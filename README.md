@@ -136,6 +136,6 @@ This is a basic encryption technique for educational purposes and should not be 
 
 ---
 
-## 📜 License
+## License
 
 This project is open-source and available under the MIT License.
